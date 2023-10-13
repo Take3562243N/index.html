@@ -11,7 +11,7 @@
   <p>この文書は非常に簡単な例だ！</p>
       <div class="header">Header領域</div>
   <div class="main">
-    <h1>見出し</h1>
+    <h1>index.html</h1>
     <p>コンテンツ</p>
     <img src="img/sample1.jpg">
   </div>
