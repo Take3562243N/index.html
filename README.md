@@ -5,7 +5,6 @@
   <titile>マルチのテストだよ</titile>
   <titile> 簡単な例</titile>
     <link rel="stylesheet" href="style.css">
-  <script type="text/javascript" src="sample.js"></script>
   </head>
   <body>
   <p>この文書は非常に簡単な例だ！</p>
